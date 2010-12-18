@@ -1,0 +1,11 @@
+This is a native implementation of Maxmind.com's GeoIP IP->Country database.
+
+It loads the entire database into memory so searches for country information are extremely fast.
+
+Later versions may include access to Maxmind.com's city database.
+
+Contact Info:
+
+Roy Pereira
+roy@shinyads.com
+http://ShinyAds.com
